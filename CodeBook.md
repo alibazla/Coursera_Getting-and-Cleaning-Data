@@ -1,5 +1,5 @@
 CodeBook:
-Description of the variables, the data, and any transformations or work that you performed to clean up the data
+Description of the variables, the data, and any transformations or work that was performed to clean up the data
 Data Source:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
